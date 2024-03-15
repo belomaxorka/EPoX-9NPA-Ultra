@@ -49,3 +49,7 @@
 **9npa5322.bin** ([Download](5322/9npa5322.bin))
 * Checksum (MD5): 47357430BAC24F6AC48F40E7A0251572
 * Release date: 03/22/2005
+***
+**9npa5302.bin** ([Download](5302/9npa5302.bin))
+* Checksum (MD5): C1C4465E7B172B3581FE7CA45A05A330
+* Release date: 03/02/2005
