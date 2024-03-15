@@ -25,3 +25,11 @@
 **9npa5a03.bin** ([Download](5a03/9npa5a03.bin))
 * Checksum (MD5): 537094F63CC908980B60168D0AF815FF
 * Release date: 10/03/2005
+***
+**9npa5923.bin** ([Download](5923/9npa5923.bin))
+* Checksum (MD5): 68259D9F12B22B54CFDCB6F1E009570C
+* Release date: 09/23/2005
+***
+**9npa5914.bin** ([Download](5914/9npa5914.bin))
+* Checksum (MD5): 51A26F4DE616A5342F349894CA447FA0
+* Release date: 09/14/2005
