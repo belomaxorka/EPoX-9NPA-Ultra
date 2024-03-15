@@ -21,3 +21,7 @@
 **9npa5a18.bin** ([Download](5a18/9npa5a18.bin))
 * Checksum (MD5): 7AB0B1637D62BF2716C0015BCCD2E426
 * Release date: 10/18/2005
+***
+**9npa5a03.bin** ([Download](5a03/9npa5a03.bin))
+* Checksum (MD5): 537094F63CC908980B60168D0AF815FF
+* Release date: 10/03/2005
