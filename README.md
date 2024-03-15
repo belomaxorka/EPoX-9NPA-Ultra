@@ -1,7 +1,3 @@
-# EPoX EP-9NPA+ Ultra BIOSes
-
-## 💾 BIOSes
-
 ***
 **9npa6811.bin** ([Download](6811%20(Latest)/9npa6811.bin))
 * Checksum (MD5): 8551E2AD1144D1E357D81E65BC3F538D
