@@ -1,10 +1,18 @@
 **9npa6811.bin** ([Download](6811%20(Latest)/9npa6811.bin)) (Latest) (Recommended)
 * Checksum (MD5): 8551E2AD1144D1E357D81E65BC3F538D
 * Release date: 08/11/2006
+* Changelog:
+  1. Improve Mator diamonMax10 hard disk can not be detected.
+  2. Join "Drive strength item" and "32 Byte Granularity" option.
 ***
 **9npa6418.bin** ([Download](6418/9npa6418.bin))
 * Checksum (MD5): 8A5CD1606703D632B13EA4F77485FDC2
 * Release date: 04/18/2006
+* Changelog:
+  1. Add 'Burst Length' and 'DRAM Bank Interleaving' item.
+  2. Fixed copy failure if copy file from PATA HDD to USB2.0 HDD.
+  3. Solved some old type PCI VGA hang at POST 29h when full screen logo show.
+  4. Added 150Mhz and 183Mhz potions for memory clock item.
 ***
 **9npa6103.bin** ([Download](6103/9npa6103.bin))
 * Checksum (MD5): B5EDC44F95038146C8779CD202FFD7AA
