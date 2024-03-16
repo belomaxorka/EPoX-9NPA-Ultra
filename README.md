@@ -32,8 +32,8 @@
 * Changelog:
   1. Added Special I/O and USB park mode item.
   2. Added Support FX-60 CPU.
-  3. Fixed boot block code overwrite.
-  4. Added "DRAM Bank Interleaving" and "Burst Length" item.
+  3. Added "DRAM Bank Interleaving" and "Burst Length" item.
+  4. Fixed boot block code overwrite.
 ***
 **9npa5a18.bin** ([Download](5a18/9npa5a18.bin)) **(Beta)**
 * Checksum (MD5): 7AB0B1637D62BF2716C0015BCCD2E426
@@ -87,9 +87,9 @@
 * Changelog:
   1. Added: Support Dual core CPU(E6).
   2. Added: DDR433 DDR466 DDR500 Support for Rev.E CPU.
-  3. Updated: PST table.
-  4. Added: Support for 4GB memory and more.
-  5. Added: New EPTP support.
+  3. Added: Support for 4GB memory and more.
+  4. Added: New EPTP support.
+  5. Updated: PST table.
 ***
 **9npa5629.bin** ([Download](5629/9npa5629.bin))
 * Checksum (MD5): B25BF6B30741774153270FD8D20F0A60
@@ -102,9 +102,9 @@
 * Checksum (MD5): 47357430BAC24F6AC48F40E7A0251572
 * Release date: 03/22/2005
 * Changelog:
-  1. Default disabled for "AMD K8 Cool\'n'Quiet" item.
+  1. Set default disabled for "AMD K8 Cool\'n'Quiet" item.
   2. Added "Delay For HDD (Secs)" item.
-  3. Rev.E CPU support.
+  3. Added Rev.E CPU support.
   4. Patch Windows XP SP2 + Cool\'n'Quiet enabled, system hang at POST 01h after software reset.
   5. Patch system can't enter SETUP when PC health enabled and OEM error message showed.
   6. Set HT 4x for specific CPU ADA3400DEP4AZ.
@@ -120,4 +120,3 @@
   5. Enable APIC item.
   6. Set default enable for Boot Up Floppy Seek.
   7. Set Default Shadow for USB Memory Type item.
-***
