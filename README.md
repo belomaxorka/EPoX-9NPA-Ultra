@@ -41,7 +41,7 @@
 * Changelog:
   1. Fixed ADA3XXXDKA4CG CPUs show wrong CPU name.
   2. Update K8 939 down code CPU (ADA3200DKA4CG, ADA3500DKA4CG, ADA3700DKA5CF, ADA4000DKA5CF).
-  3. Updated: Cool\'n'Quiet PST table.
+  3. Update Cool\'n'Quiet PST table.
 ***
 **9npa5a03.bin** ([Download](https://github.com/belomaxorka/EPoX-9NPA-Ultra-BIOSes/raw/main/5a03/9npa5a03.bin))
 * Checksum (MD5): 537094F63CC908980B60168D0AF815FF
