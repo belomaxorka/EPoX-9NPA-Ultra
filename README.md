@@ -17,6 +17,8 @@
 **9npa6103.bin** ([Download](6103/9npa6103.bin))
 * Checksum (MD5): B5EDC44F95038146C8779CD202FFD7AA
 * Release date: 01/03/2006
+* Changelog:
+  1. Solved the full screen logo color palette not correct.
 ***
 **9npa5c21.bin** ([Download](5c21/9npa5c21.bin))
 * Checksum (MD5): 1DC4F065375F1D6B202671EB8FBD2A99
