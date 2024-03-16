@@ -41,6 +41,7 @@
 * Changelog:
   1. Fixed ADA3XXXDKA4CG CPUs show wrong CPU name.
   2. Update K8 939 down code CPU (ADA3200DKA4CG, ADA3500DKA4CG, ADA3700DKA5CF, ADA4000DKA5CF).
+  3. Updated: Cool\'n'Quiet PST table.
 ***
 **9npa5a03.bin** ([Download](5a03/9npa5a03.bin))
 * Checksum (MD5): 537094F63CC908980B60168D0AF815FF
@@ -111,3 +112,12 @@
 **9npa5302.bin** ([Download](5302/9npa5302.bin))
 * Checksum (MD5): C1C4465E7B172B3581FE7CA45A05A330
 * Release date: 03/02/2005
+* Changelog:
+  1. Enable IRQ Resources items.
+  2. Update full screen logo.
+  3. Solve incorrect CPU temperature.
+  4. Set default disabled for NV Raid Boot ROM, nVidia LAN Boot ROM items.
+  5. Enable APIC item.
+  6. Set default enable for Boot Up Floppy Seek.
+  7. Set Default Shadow for USB Memory Type item.
+***
