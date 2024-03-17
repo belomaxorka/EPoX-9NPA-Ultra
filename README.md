@@ -1,7 +1,7 @@
 # EPoX 9NPA+ Ultra
 ![EPoX 9NPA+ Ultra](Motherboard.jpg)
 * BIOSes taken from **[The Retro Web](https://theretroweb.com/motherboards/s/epox-pronix-ep-9npa-plus-ultra)**.
-* Mirrors: [EPoX Website (Web achieve)](https://web.archive.org/web/20070814045726/http://www.epox.com.tw/eng/support.php?ps=335&type=1), [The Retro Web](https://theretroweb.com/motherboards/s/epox-pronix-ep-9npa-plus-ultra#bios).
+* Mirrors: **[EPoX Website (Web achieve)](https://web.archive.org/web/20070814045726/http://www.epox.com.tw/eng/support.php?ps=335&type=1)**, **[The Retro Web](https://theretroweb.com/motherboards/s/epox-pronix-ep-9npa-plus-ultra#bios)**.
 * Use **[Winflash v1.97](https://github.com/belomaxorka/EPoX-9NPA-Ultra-BIOSes/raw/main/Winflash%20v1.97.zip)** for flashing (Checksum MD5: 253BE9ACF68FFD6C4608B54B6CA2F06B).
 * Flashing from **Windows XP 32bit** is recommended.
 ***
