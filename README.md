@@ -15,10 +15,10 @@
 * Checksum (MD5): 8A5CD1606703D632B13EA4F77485FDC2
 * Release date: 04/18/2006
 * Changelog:
-  1. Added: "Burst Length" and "DRAM Bank Interleaving" item.
+  1. Added: "Burst Length" and "DRAM Bank Interleaving" item. (Again???)
   2. Solved Some old type PCI VGA hang at POST 29h when full screen logo show.
   3. Fixed: Copy failure if copy file from PATA HDD to USB2.0 HDD.
-  4. Added: 150Mhz and 183Mhz potions for memory clock item.
+  4. Added: 150Mhz and 183Mhz options for memory clock item.
 ***
 **9npa6103.bin** ([Download](https://github.com/belomaxorka/EPoX-9NPA-Ultra-BIOSes/raw/main/6103/9npa6103.bin))
 * Checksum (MD5): B5EDC44F95038146C8779CD202FFD7AA
@@ -92,7 +92,7 @@
 * Release date: 07/28/2005
 * Changelog:
   1. Added: Support Dual core CPU(E6).
-  2. Added: DDR433 DDR466 DDR500 Support for Rev.E CPU.
+  2. Added: DDR433, DDR466, DDR500 Support for Rev.E CPU.
   3. Added: Support for 4GB memory and more.
   4. Added: New EPTP support.
   5. Updated: PST table.
@@ -122,7 +122,7 @@
   1. Enable IRQ Resources items.
   2. Update full screen logo.
   3. Solve incorrect CPU temperature.
-  4. Set default disabled for NV Raid Boot ROM, nVidia LAN Boot ROM items.
+  4. Set default disabled for NV Raid Boot ROM, NV LAN Boot ROM items.
   5. Enable APIC item.
   6. Set default enable for Boot Up Floppy Seek.
   7. Set Default Shadow for USB Memory Type item.
