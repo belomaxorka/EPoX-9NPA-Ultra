@@ -92,7 +92,7 @@
 * Release date: 07/28/2005
 * Changelog:
   1. Added: Support Dual core CPU(E6).
-  2. Added: DDR433, DDR466, DDR500 Support for Rev.E CPU.
+  2. Added: DDR433, DDR466, DDR500 Support for E version CPU.
   3. Added: Support for 4GB memory and more.
   4. Added: New EPTP support.
   5. Updated: PST table.
